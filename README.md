@@ -1,5 +1,7 @@
-Legion+
+Legion+ [DEPRECATED]
 =======
+
+### This tool is outdated and has been deprecated in favour of a new tool, [RSX](https://github.com/r-ex/rsx) (https://github.com/r-ex/rsx). Legion+ will not be receiving any future updates.
 
 Asset extraction tool for Apex Legends and Titanfall 2
 
